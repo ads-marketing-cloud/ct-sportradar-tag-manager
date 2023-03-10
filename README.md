@@ -1,0 +1,1 @@
+# Community Template Widget for Sportradar Ad:s Tag Manager
