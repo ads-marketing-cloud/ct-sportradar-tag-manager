@@ -1,9 +1,11 @@
 homepage: "https://sportradar.com"
-documentation: "https://raw.githubusercontent.com/ads-marketing-cloud/ct-sportradar-tag-manager/main/README.md"
+documentation: "https://github.com/ads-marketing-cloud/ct-sportradar-tag-manager/blob/main/TagManagerDocumentation.pdf"
 versions:
  # Latest version
+ - sha: 27393d10d0f6d033db1cab2bdab55408dc8a72d5
+   changeNotes: Adds documentation.
+ # Older versions
  - sha: 35adf3aa3c483830123a5a7af1bc9add9d282d03
    changeNotes: Create initial template.
- # Older versions
  - sha: bf3bd7d7178d5905a7836746c86560a2e7f51bf5
    changeNotes: Create repository.
